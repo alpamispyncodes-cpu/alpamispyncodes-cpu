@@ -15,7 +15,6 @@ Welcome to my GitHub profile!
 - 💬 Ask me about: Coding, TikTok content, motivation
 - 📫 How to reach me: Telegram / Instagram (add your username)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cars and ASMR content 🚗🎧
 
 ---
 
