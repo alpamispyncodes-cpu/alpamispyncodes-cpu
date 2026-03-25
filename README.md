@@ -1,27 +1,18 @@
-<h1 align="center">Hi 👋, I'm Alpamis</h1>
-
+<!-- BANNER (KATTA) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Trader;Graphic+Designer;YouTube+Creator&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=ALPAMIS%20JOLMURZAEV&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ANIMATED TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Alpamis;Future+Trader+📈;Graphic+Designer+🎨;Building+Online+Income+💰" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔥 Trader bo‘lish yo‘lida
-- 🎨 Grafik dizayner
-- 📈 Online daromadga intilaman
-
----
-
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-
----
-
-### 💻 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
-
----
-
-### ⚡ Fun Fact
-💡 Never give up!
+## 🧠 About Me
+`diff
++ 💼 Future Trader
++ 🎨 Graphic Designer
++ 📈 Focused on Online Income
++ 🚀 Always Learning & Growing
