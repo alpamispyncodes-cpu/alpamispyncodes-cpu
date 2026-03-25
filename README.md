@@ -8,17 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Alpamis;Future+Trader+📈;Graphic+Designer+🎨;New+Programmist+💻;Building+Success+🚀" />
 </p>
 
----
 
 <!-- SECOND BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/alpamispyncodes-cpu/alpamispyncodes-cpu/main/banner2.png" />
 </p>
 
----
+
 
 ## 🧠 About Me
-`diff
+
 + 💼 Future Trader
 + 🎨 Graphic Designer
 + 💻 New Programmer
