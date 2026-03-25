@@ -5,13 +5,12 @@
 
 <!-- ANIMATED TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Alpamis;Future+Trader+📈;Graphic+Designer+🎨;Building+Online+Income+💰" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Alpamis;Future+Trader+📈;Graphic+Designer+🎨;Building+Online+Income+💰,New Programmist." />
 </p>
 
 ---
 
 ## 🧠 About Me
-`diff
 + 💼 Future Trader
 + 🎨 Graphic Designer
 + 📈 Focused on Online Income
