@@ -17,9 +17,3 @@
 + 📈 Focused on Online Income
 + 🚀 Always Learning & Growing
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alpamispyncodes-cpu/alpamispyncodes-cpu/main/banner2.png" />
-</p>
-
----
